@@ -1,3 +1,8 @@
 
 * annex.backend=MD5E
+** annex.largefiles=anything
 **/.git* annex.largefiles=nothing
+**/studyspec.json annex.largefiles=nothing
+CHANGES annex.largefiles=nothing
+README annex.largefiles=nothing
+dataset_description.json annex.largefiles=nothing
