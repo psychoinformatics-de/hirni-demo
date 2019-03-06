@@ -4,3 +4,6 @@
 [submodule "acq1/dicoms"]
 	path = acq1/dicoms
 	url = ./acq1/dicoms
+[submodule "acq2/dicoms"]
+	path = acq2/dicoms
+	url = ./acq2/dicoms
