@@ -1,3 +1,6 @@
 [submodule "code/hirni-toolbox"]
 	path = code/hirni-toolbox
 	url = https://github.com/psychoinformatics-de/hirni-toolbox.git
+[submodule "acq1/dicoms"]
+	path = acq1/dicoms
+	url = ./acq1/dicoms
